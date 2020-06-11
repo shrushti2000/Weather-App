@@ -1,0 +1,30 @@
+.header{
+  display: flex;
+  flex-wrap: wrap;
+  /*background-color:#6b2228;*/
+  
+  
+
+}
+.header .input{
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  position: absolute;
+  right: 100px;
+  margin-top: 80px;
+  
+}
+
+
+
+.heading{
+    margin-top: 5px;
+    font-size: 80px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    margin-left:25px;
+    color:#052859;
+    text-shadow: 3px 3px 6px rgb(220, 229, 241);
+ }
+ 

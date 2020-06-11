@@ -1,0 +1,32 @@
+ .major-info{
+    color: black;
+     font-family: 'Merriweather', serif;
+     font-size: 20px;
+     text-align: left;
+     margin-left: 30px;
+     
+}
+.temp{
+    font-size: 40px;
+
+}
+
+ .major-info  .country-region{
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+
+
+}
+
+.minor-info{
+    margin: 35px;
+    padding: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+    font-family: 'Marmelad', sans-serif;
+    justify-content: space-around;
+    
+
+}
